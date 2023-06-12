@@ -9,21 +9,21 @@ import  cooldaddy  from '../../../public/cooldaddy pixelated.png';
 const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle main center>
 
-      <Link legacyBehavior href='/'>
-        <a style={{ display: 'flex', alignItems: 'center', color: 'white', size: '3rem'  }}>
-        <Image src={cooldaddy} size='1rem' /> 
-        </a>
-      </Link>
-        
+      <SectionTitle main center>
+        <Link legacyBehavior href='/'>
+          <a style={{ display: 'flex', alignItems: 'left', color: 'grey', size: '3rem'  }}>
+          <Image src={ cooldaddy } size='1.5rem' alt='cooldaddy logo'/> 
+          </a>
+        </Link>
         </SectionTitle>
+
           <SectionText>
             I thought instead of your usual personal portfolio 
             site i'd make this a site to showcase my work
             and what I can do for you. Hope you like it.
           </SectionText>
-        <Button onClick={() => window.location ='https://google.com'}>Let's Get Started </Button>
+        <Button onClick={() => window.location ='https://gmail.com'}><a style={{ display: 'flex', alignItems: 'left', color: 'grey[200]', size: '3rem'  }}> Contact Me </a></Button>
     </LeftSection>
   </Section>
 );

@@ -9,15 +9,15 @@ const Header = () =>  (
   <Container>
     <Div1>
       <Link legacyBehavior href='/'>
-        <a style={{ display: 'flex', alignItems: 'center', color: 'white', size: '6rem'  }}>
-          <DiCssdeck size='4rem' color='blue'/> <Span> CoolDaddy Design</Span>
+        <a style={{ display: 'flex', alignItems: 'center', color: 'grey', size: '4rem'  }}>
+          <DiCssdeck size='4rem' color='grey'/> <Span> CoolDaddy Design</Span>
         </a>
       </Link>
     </Div1>
     <Div2>
       <li>
         <Link legacyBehavior href='#projects'>
-          <NavLink>Projects</NavLink>
+          <NavLink size='4rem' color='grey'>Projects</NavLink>
         </Link>
       </li>
       <li>
@@ -38,7 +38,7 @@ const Header = () =>  (
           <SocialIcons href='https://www.linkedin.com/in/henry-peti-b57363102/'>
             <AiFillLinkedin size='3rem' />
             </SocialIcons>
-          <SocialIcons href='https://instagram.com'>
+          <SocialIcons href='https://www.instagram.com/iamgadgetboy/'>
         <AiFillInstagram size='3rem' />
       </SocialIcons>
     </Div3>
