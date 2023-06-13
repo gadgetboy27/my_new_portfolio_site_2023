@@ -78,7 +78,6 @@ export const CardInfo = styled.p`
 }
 `;
 
-
 export const UtilityList = styled.ul`
   list-style-type: none;
   padding: 0;
