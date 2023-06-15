@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
-import  cooldaddy  from '../../../public/cooldaddy pixelated.png';
+import  cooldaddy  from '../../../public/gadgetboy.PNG';
 
 const Hero = (props) => (
   <Section row nopadding>

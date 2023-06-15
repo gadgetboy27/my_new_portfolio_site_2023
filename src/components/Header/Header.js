@@ -10,7 +10,7 @@ const Header = () =>  (
     <Div1>
       <Link legacyBehavior href='/'>
         <a style={{ display: 'flex', alignItems: 'center', color: 'grey', size: '4rem'  }}>
-          <DiCssdeck size='4rem' color='grey'/> <Span> CoolDaddyDesign</Span>
+          <DiCssdeck size='4rem' color='purple'/> <Span> CoolDaddyDesign</Span>
         </a>
       </Link>
     </Div1>
