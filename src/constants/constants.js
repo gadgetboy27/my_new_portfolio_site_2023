@@ -12,7 +12,7 @@ export const projects = [
     title: 'E-Commerce with Web3',
     description:"While building it I learn't many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, plus unique and complex web3 technologies that helped add to my portfolio. E-commerce with Web3 applications are impressive.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['React', 'JavaScript', 'web3'],
     source: 'https://github.com/gadgetboy27/blockchain-marketplace',
     visit: 'https://github.com/gadgetboy27/blockchain-marketplace',
     id: 1,

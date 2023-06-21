@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
-import  cooldaddy  from '../../../public/cooldaddy pixelated.png';
+import  cooldaddy  from '../../../public/gadgetboy_label.jpeg';
 
 const Hero = (props) => (
   <Section row nopadding>
@@ -16,7 +16,7 @@ const Hero = (props) => (
           <Image src={ cooldaddy } size='1.5rem' alt='cooldaddy logo'/> 
           </a>
         </Link>
-        </SectionTitle>
+      </SectionTitle>
 
           <SectionText>
             I thought instead of your usual personal portfolio 

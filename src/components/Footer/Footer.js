@@ -9,12 +9,12 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href='tel:6421853579'>64-21853579</LinkItem>
+          <LinkTitle></LinkTitle>
+          <LinkItem href=''></LinkItem>
             </LinkColumn>
               <LinkColumn>
               <LinkTitle>Email</LinkTitle>
-            <LinkItem href='mailto:cooldaddydesign@gmail.com'>cooldaddydesign@gmail.com</LinkItem>
+            <LinkItem href='mailto:iamgadgetboy@gmail.com'>iamgadgetboy@gmail.com</LinkItem>
           </LinkColumn>
         </LinkList>
       <SocialIconsContainer>
