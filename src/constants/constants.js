@@ -41,6 +41,6 @@ export const TimeLineData = [
   { year: 2017, text: 'Started my first online laptop repair business', },
   { year: 2018, text: 'Built my first website with HTML, CSS, Javascript', },
   { year: 2019, text: 'Took it another step and joined a Boot Camp', },
-  { year: 2020, text: 'Discovered Crypto and Ethereum smart contracts', },
+  { year: 2020, text: 'Discovered Bitcoin and Ethereum smart contracts', },
   { year: 2021, text: 'Continued development into Web3, Blockchain tech', },
 ];
