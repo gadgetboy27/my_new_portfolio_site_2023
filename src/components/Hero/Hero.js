@@ -13,7 +13,7 @@ const Hero = (props) => (
       <SectionTitle main center>
         <Link legacyBehavior href='/'>
           <a style={{ display: 'flex', alignItems: 'left', color: 'grey', size: '3rem'  }}>
-          <Image src={ cooldaddy } size='100vw' alt='cooldaddy logo'/> 
+          <Image src={ cooldaddy } height='auto' width='100%' size='100vw' alt='cooldaddy logo'/> 
           </a>
         </Link>
       </SectionTitle>

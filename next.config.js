@@ -2,7 +2,7 @@
 const nextConfig = {
     reactStrictMode: true,
       images: {
-        allowFutureImage: true,
+        unoptimized: true,
     },
   }
   
